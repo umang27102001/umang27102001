@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umang Kanchan
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently pursuing MCA from JawaharLal Nehru University New Delhi.
 - 📫 How to reach me kanchan.umang@gmail.com.
 - 📫 Checkout my Linkedin Profile https://www.linkedin.com/in/umang-kanchan-91546520b/
